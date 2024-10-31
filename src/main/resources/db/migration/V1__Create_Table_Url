@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `url` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `url` varchar(500) NOT NULL,
+  PRIMARY KEY (`id`)
+
+)
